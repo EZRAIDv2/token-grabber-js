@@ -1,5 +1,5 @@
 # token-grabber-js
-Стаскивает токен, используя JavaScript.
+Стаскивает *токен*, используя [JavaScript](https://learn.javascript.ru).
 ## ⚠️ ВНИМАНИЕ!!! ⚠️
 Этот скрипт нарушает Discord ToS (Terms of Service).
 <br>
